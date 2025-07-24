@@ -1,0 +1,73 @@
+{
+  "job_roles": [
+    {
+      "id": 1,
+      "name": "Branch Service Officer",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Q1. Ek customer ghusse mein branch mein aata hai aur complain karta hai ke ATM ne paisay kaat liye lekin cash nahi mila. Woh bank par ilzaam lagata hai aur foran solution chahta hai, warna account band karne ki dhamki deta hai. Aap kya karenge?",
+          "audio_path": "job_roles/BranchServiceOfficer/Q1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Q2. Closing time hai, line lambi hai. Ek maa do chhote bachon ke saath cash withdraw karne aayi hai, lekin usay PIN yaad nahi aur phone dead hai. Aap pressure mein hain, manager dekh raha hai, lekin maa pareshan hai. Aap kya karenge?",
+          "audio_path": "job_roles/BranchServiceOfficer/Q2.wav"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Customer Service Representative",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Q1. Aik buzurg customer madad mangtay hain paisay nikalne ke liye. Aap samjhaane ki koshish karte hain, lekin woh baar baar wahi poochhtay hain. Line mein log gussa ho rahe hain aur taakheer se tang hain.",
+          "audio_path": "job_roles/CustomerServiceRepresentative/Q1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Q2. Ek customer gusse se kehta hai ke unka token skip ho gaya. Aapko pata hai ke unka number bulaya gaya tha, lekin woh miss kar gaye. Ab woh favoritism ka ilzaam laga rahe hain.",
+          "audio_path": "job_roles/CustomerServiceRepresentative/Q2.wav"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Relationship Executive",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Q1. Aapko Sirf 3 haftay huay hain job shuru kiye, jab ek customer ghusse mein cheekhta hai ke uski request last month handle nahi hui. Woh aapko zimmedar samajhta hai, jabke aapko pata hai yeh aap ka kaam nahi tha. Aap kya karengey?",
+          "audio_path": "job_roles/RelationshipExecutive/Q1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Q2. Aap client ko proposal de rahe hain jab aapko pata chalta hai ke ek key slide missing hai. Client ka interest kam hojaata hai, backup info hai lekin perfect format mein nahi. Aapka teammate bhi dekh raha hai. Aap kesey manage karengey?",
+          "audio_path": "job_roles/RelationshipExecutive/Q2.wav"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Service Ambassador",
+      "questions": [
+        {
+          "id": 1,
+          "text": "Q1. Aap entrance pe hain. Buzurg shakhs paisay nikalne mein madad maang raha hai, magar woh baar baar wahi sawaal pooch raha hai. Baaki log pareshaan ho rahe hain. Aap kya karenge?\n",
+          "audio_path": "job_roles/ServiceAmbassador/Q1.wav"
+        },
+        {
+          "id": 2,
+          "text": "Q2. Ek disabled customer form fill karne ki madad maang raha hai. Aap busy hain aur line lambi ho rahi hai. Aap kya karenge?\n",
+          "audio_path": "job_roles/ServiceAmbassador/Q2.wav"
+        },
+         {
+          "id": 3,
+          "text": "Q3. Ek customer ghusse mein keh rahay hain ke unka token skip hogaya jabke asal mein unka number announce hua tha. Wo ilzaam laga rahay hai ke staff biased hai.Aap kya karengey?\n",
+          "audio_path": "job_roles/ServiceAmbassador/Q3.wav"
+        }
+      ]
+    }
+  ]
+}

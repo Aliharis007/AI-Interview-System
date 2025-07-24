@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+gcp_creds_application.json
+*.wav

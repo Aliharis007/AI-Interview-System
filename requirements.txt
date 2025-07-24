@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+google-cloud-aiplatform
+fastapi
+uvicorn
+python-multipart
+pydub
+SpeechRecognition
+streamlit
+requests
+sounddevice 
+fastapi[standard]
+scipy
+faster-whisper
+pandas
