@@ -5,12 +5,6 @@ An intelligent interview assistant built with **Streamlit**, designed to simulat
 > 🎯 Project Goal: To simulate a professional interview environment using voice interaction, enabling candidates to practice and receive feedback in real-time.
 
 ---
-
-## 🌐 Live Demo
-👉 [Launch AI Interview System on Streamlit](https://YOUR-STREAMLIT-APP-LINK-HERE)
-
----
-
 ## 🛠️ Tech Stack
 
 | Area | Technologies |
@@ -106,18 +100,6 @@ This project uses several GCP services:
 * ✅ **Service Account** for authentication and secure API access
 
 > GCP creds are stored in `gcp_creds_application.json` and accessed securely during backend interaction. *This file is excluded from GitHub using `.gitignore`.*
-
----
-
-## ⚙️ Deployment on Streamlit Cloud (Coming next...)
-
-Stay tuned below for deployment instructions 👇
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
